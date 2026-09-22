@@ -4,4 +4,4 @@ const tasks = [
   "Build the orders API",
   "Add user login",
 ];
-console.log(`CampusEats has ${tasks.length} open tasks`);"// CampusEats task list" 
+console.log(`CampusEats has ${tasks.length} open tasks`);"// CampusEats task list update" 
